@@ -1,3 +1,6 @@
-theme: jekyll-theme-slate
-title: Lore Ark - by Saintone
-description: Tradução oficial da história do jogo para PT-BR.
+title: Lost Ark Lore PT-BR
+description: Tradução da Lore de Lost Ark
+theme: just-the-docs
+
+url: https://koijsan.github.io
+baseurl: /lost-ark-lore-ptbr
