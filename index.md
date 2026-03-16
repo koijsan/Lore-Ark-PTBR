@@ -1,17 +1,21 @@
 ---
-title: A Criação
-parent: Lore
+title: Início
 nav_order: 1
 ---
 
-# A Criação do Mundo
+# 📜 Lore de Lost Ark — PT-BR
 
-No princípio existia a Ark, fonte de poder absoluto.
+Tradução da história completa de Lost Ark baseada no documento **Lore Ark – by Saintone**.
 
-Dentro do caos primordial existia Zosma, o Deus do Caos.
+## Conteúdo
 
-Então surgiu Regulus, o Deus da Ordem, que utilizou o poder da Ark para criar o universo conhecido como Omnium.
+- Criação do mundo
+- Raças de Arkesia
+- Petrania
+- Chain War
+- Sidereals
+- Kazeros
 
-Entre os mundos criados, um se tornaria especial:
+➡️ Comece aqui:
 
-Arkesia.
+[A Criação do Mundo](lore/criacao.md)
