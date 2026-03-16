@@ -1,9 +1,21 @@
-# Lore de Lost Ark — PT-BR
+---
+title: Início
+nav_order: 1
+---
 
-Bem-vindo à tradução da lore de Lost Ark baseada no documento **Lore Ark - by Saintone**.
+# 📜 Lore de Lost Ark — PT-BR
 
-## Capítulos
+Tradução da história completa de Lost Ark baseada no documento **Lore Ark – by Saintone**.
 
-- [Capítulo 1](capitulos/capitulo-01.md)
-- [Capítulo 2](capitulos/capitulo-02.md)
-- [Capítulo 3](capitulos/capitulo-03.md)
+## Conteúdo
+
+- Criação do mundo
+- Raças de Arkesia
+- Petrania
+- Chain War
+- Sidereals
+- Kazeros
+
+➡️ Comece aqui:
+
+[A Criação do Mundo](lore/criacao.md)
